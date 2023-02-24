@@ -1,0 +1,15 @@
+C:\Users\91908\source\repos\HW4LiYin\HW4LiYin\bin\Debug\net6.0\HW4LiYin.exe
+C:\Users\91908\source\repos\HW4LiYin\HW4LiYin\bin\Debug\net6.0\HW4LiYin.deps.json
+C:\Users\91908\source\repos\HW4LiYin\HW4LiYin\bin\Debug\net6.0\HW4LiYin.runtimeconfig.json
+C:\Users\91908\source\repos\HW4LiYin\HW4LiYin\bin\Debug\net6.0\HW4LiYin.dll
+C:\Users\91908\source\repos\HW4LiYin\HW4LiYin\bin\Debug\net6.0\HW4LiYin.pdb
+C:\Users\91908\source\repos\HW4LiYin\HW4LiYin\obj\Debug\net6.0\HW4LiYin.csproj.AssemblyReference.cache
+C:\Users\91908\source\repos\HW4LiYin\HW4LiYin\obj\Debug\net6.0\HW4LiYin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91908\source\repos\HW4LiYin\HW4LiYin\obj\Debug\net6.0\HW4LiYin.AssemblyInfoInputs.cache
+C:\Users\91908\source\repos\HW4LiYin\HW4LiYin\obj\Debug\net6.0\HW4LiYin.AssemblyInfo.cs
+C:\Users\91908\source\repos\HW4LiYin\HW4LiYin\obj\Debug\net6.0\HW4LiYin.csproj.CoreCompileInputs.cache
+C:\Users\91908\source\repos\HW4LiYin\HW4LiYin\obj\Debug\net6.0\HW4LiYin.dll
+C:\Users\91908\source\repos\HW4LiYin\HW4LiYin\obj\Debug\net6.0\refint\HW4LiYin.dll
+C:\Users\91908\source\repos\HW4LiYin\HW4LiYin\obj\Debug\net6.0\HW4LiYin.pdb
+C:\Users\91908\source\repos\HW4LiYin\HW4LiYin\obj\Debug\net6.0\HW4LiYin.genruntimeconfig.cache
+C:\Users\91908\source\repos\HW4LiYin\HW4LiYin\obj\Debug\net6.0\ref\HW4LiYin.dll
